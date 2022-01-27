@@ -1,0 +1,1 @@
+[{"name":"tejal supe","mobile":"09604465225","email":"tejalsupe@gmail.com","salary":"234555","empid":"6059"},{"name":"iuuu","email":"iuuu@j.d","salary":"1233333","mobile":"6587399380","empid":"111"},{"name":"trert","mobile":"456776","email":"ytrer@gmail.com","salary":"10000","empid":"6051"}]
